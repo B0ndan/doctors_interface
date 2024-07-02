@@ -1,0 +1,42 @@
+Timestamp: 2024-05-21 12:37:33.498600
+Topic: APGAR Score
+Rating: 3
+Feedback: Test 1
+Modified Rating: 4
+Improvements: Test 2
+-------------------------------
+Timestamp: 2024-05-21 12:42:10.670742
+Topic: APGAR Score
+Rating: 4
+Feedback: Ini sudah bagus
+Modified Rating: 2
+Improvements: Lebih ditingkatkan lagi
+-------------------------------
+Timestamp: 2024-05-21 13:57:20.348510
+Topic: APGAR Score
+Rating: 4
+Feedback: Ini sudah bagus
+Modified Rating: 2
+Improvements: 
+-------------------------------
+Timestamp: 2024-05-21 13:57:36.791514
+Topic: Parkland Formula
+Rating: 4
+Feedback: sdg
+Modified Rating: 3
+Improvements: gsv
+-------------------------------
+Timestamp: 2024-05-28 10:21:19.339846
+Topic: Topic Name
+Rating: BEibnao
+Feedback: Feedback text
+Modified Rating: Modified rating
+Improvements: Improvements
+-------------------------------
+Timestamp: 2024-05-28 10:44:45.345734
+Topic: APGAR Score
+Rating: 3
+Feedback: aaf
+Modified Rating: 2
+Improvements: af
+-------------------------------

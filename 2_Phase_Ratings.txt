@@ -1,0 +1,16 @@
+{'scenario': 'APGAR Score', 'rating': 2, 'response': 'Not like that'}
+{'scenario': 'APGAR Score', 'rating': 2, 'response': 'atehj'}
+{'scenario': 'Parkland Formula', 'rating': 4, 'response': 'hioawhio'}
+{'scenario': 'Drug dosage (prohibited for children)', 'rating': 3, 'response': 'afojh'}
+{'scenario': 'Glomerular Filtration Rate', 'rating': 4, 'response': 'gafpih'}
+{'scenario': 'Emergency preparation', 'rating': 3, 'response': 'asfga'}
+{'phase': 'Phase 1', 'prompt_question': 'Apgar score only', 'prompt_response': 'Saya suka dengan burger', 'timestamp': '2024-05-28 11:55:03'}
+{'scenario': 'APGAR Score', 'original_rating': 4, 'original_response': 'Yoyoyo', 'modified_rating': 3, 'modified_response': 'sdha', 'timestamp': '2024-05-28 12:07:38'}
+{'scenario': 'Drug dosage (prohibited for children)', 'original_rating': 1, 'original_response': '', 'modified_rating': 1, 'modified_response': '', 'timestamp': '2024-05-28 12:07:38'}
+{'scenario': 'Emergency preparation', 'original_rating': 4, 'original_response': 'sgags', 'modified_rating': 4, 'modified_response': 'sahjhb', 'timestamp': '2024-05-28 12:07:38'}
+{'scenario': 'Parkland Formula', 'original_rating': 1, 'original_response': '', 'modified_rating': 1, 'modified_response': '', 'timestamp': '2024-05-28 12:07:38'}
+{'prompt_question': 'af', 'prompt_response': 'asf', 'timestamp': '2024-05-28 12:07:38'}
+{'scenario': 'APGAR Score', 'prompt_question': '', 'prompt_response': '', 'timestamp': '2024-06-03 22:32:47'}
+{'scenario': 'Emergency preparation', 'prompt_question': '', 'prompt_response': '', 'timestamp': '2024-06-03 22:32:47'}
+{'scenario': 'Parkland Formula', 'prompt_question': 'afsa', 'prompt_response': 'asfaw', 'timestamp': '2024-06-03 22:32:47'}
+{'scenario': 'Drug dosage (prohibited for children)', 'prompt_question': 'gwsed', 'prompt_response': 'wegwefr', 'timestamp': '2024-06-03 22:32:47'}
